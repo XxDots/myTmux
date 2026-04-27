@@ -96,8 +96,8 @@ tmux source ~/.tmux.conf
 
 | | |
 | :---: | :---: |
-| <img src="./docs/images/myTmux1.png" width="400" /> | <img src="./docs/images/myTmux2.png" width="400" /> |
-| <img src="./docs/images/myTmux3.png" width="400" /> | |
+| <img src="./docs/images/myTmux1.png" width="800" colspan="2" /> | |
+| <img src="./docs/images/myTmux2.png" width="400" /> | <img src="./docs/images/myTmux3.png" width="400" /> |
 
 ---
 
