@@ -23,7 +23,7 @@ git clone https://github.com/XxDots/myTmux.git ~/myTmux
 
 # 2. Setup
 mkdir -p ~/.config/tmux
-cp ~/myTmux/which-key.sh ~/.config/tmux/
+cp ~/myTmux/scripts/which-key.sh ~/.config/tmux/
 chmod +x ~/.config/tmux/which-key.sh
 
 # 3. Install
@@ -67,7 +67,7 @@ git clone https://github.com/XxDots/myTmux.git ~/myTmux
 
 # 2. Setup
 mkdir -p ~/.config/tmux
-cp ~/myTmux/which-key.sh ~/.config/tmux/
+cp ~/myTmux/scripts/which-key.sh ~/.config/tmux/
 chmod +x ~/.config/tmux/which-key.sh
 
 # 3. Install
