@@ -94,10 +94,11 @@ tmux source ~/.tmux.conf
 
 ### Screenshots
 
-| | |
-| :---: | :---: |
-| <img src="./docs/images/myTmux1.png" width="800" colspan="2" /> | |
-| <img src="./docs/images/myTmux2.png" width="400" /> | <img src="./docs/images/myTmux3.png" width="400" /> |
+<div align="center">
+  <img src="./docs/images/myTmux1.png" width="800" /><br>
+  <img src="./docs/images/myTmux2.png" width="400" />
+  <img src="./docs/images/myTmux3.png" width="400" />
+</div>
 
 ---
 
