@@ -10,7 +10,7 @@ readonly cmd_show_menu=$script_path
 readonly menu_name=${1:-tmux}
 
 show_menu() {
-    tmux menu -b rounded -x R -y P -T "#[align=centre,bold fg=magenta] 󰀻  LazyTmux " "$@"
+    tmux menu -b rounded -x R -y P -T "#[align=centre,bold fg=magenta] 󰀻  myTmux " "$@"
 }
 
 case $menu_name in

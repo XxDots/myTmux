@@ -1,4 +1,4 @@
-# 󰀻 LazyTmux
+# 󰀻 myTmux
 
 [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
 
@@ -6,7 +6,7 @@
 
 ## English
 
-**LazyTmux** is a high-performance, ergonomic tmux configuration inspired by the aesthetics and workflow of **LazyVim**. It transforms your terminal into a powerful IDE-like environment with a focus on ease of use and clean UI.
+**myTmux** is a high-performance, ergonomic tmux configuration inspired by the aesthetics and workflow of **LazyVim**. It transforms your terminal into a powerful IDE-like environment with a focus on ease of use and clean UI.
 
 ### 󰄬 Key Features
 - **󰀻 Clean UI**: Minimalist status bar at the bottom using the Catppuccin Mocha theme.
@@ -44,7 +44,7 @@
 
 ## Bahasa Indonesia
 
-**LazyTmux** adalah konfigurasi tmux yang ergonomis dan berperforma tinggi, terinspirasi dari alur kerja **LazyVim**. Konfigurasi ini mengubah terminal kamu menjadi lingkungan seperti IDE dengan fokus pada kemudahan penggunaan dan tampilan yang bersih.
+**myTmux** adalah konfigurasi tmux yang ergonomis dan berperforma tinggi, terinspirasi dari alur kerja **LazyVim**. Konfigurasi ini mengubah terminal kamu menjadi lingkungan seperti IDE dengan fokus pada kemudahan penggunaan dan tampilan yang bersih.
 
 ### 󰄬 Fitur Utama
 - **󰀻 Clean UI**: Status bar minimalis di bagian bawah menggunakan tema Catppuccin Mocha.
