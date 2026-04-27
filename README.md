@@ -47,7 +47,6 @@ tmux source ~/.tmux.conf
 ### 📖 Docs
 - **All Keybindings** → [KEYBINDINGS.md](./KEYBINDINGS.md)
 - **Structure** → [STRUCTURE.md](./STRUCTURE.md)
-- **Theme** → [themes/catppuccin.conf](./themes/catppuccin.conf)
 
 ---
 
@@ -92,7 +91,6 @@ tmux source ~/.tmux.conf
 ### 📖 Dokumentasi
 - **Semua Keybinding** → [KEYBINDINGS.md](./KEYBINDINGS.md)
 - **Struktur** → [STRUCTURE.md](./STRUCTURE.md)
-- **Tema** → [themes/catppuccin.conf](./themes/catppuccin.conf)
 
 ---
 
