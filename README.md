@@ -92,6 +92,14 @@ tmux source ~/.tmux.conf
 - **Semua Keybinding** → [KEYBINDINGS.md](./KEYBINDINGS.md)
 - **Struktur** → [STRUCTURE.md](./STRUCTURE.md)
 
+## Screenshots
+
+<p float="left">
+  <img src="./myTmux1.png" width="300" />
+  <img src="./myTmux2.png" width="300" />
+  <img src="./myTmux3.png" width="300" />
+</p>
+
 ---
 
 **Requirements:** tmux 3.2+  
